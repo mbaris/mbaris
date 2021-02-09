@@ -22,4 +22,4 @@ I want to work with Rust, Scala and Kotlin as well.
 * Fantasy Novels :elf: :dragon: :mage_man:	
 * Traveling the world
 
-You can find links to my socials at baris.io
+You can find links to my socials at https://baris.io
