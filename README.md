@@ -16,10 +16,10 @@ I am an engineer, programmer and a geek.
 I want to work with Rust, Scala and Kotlin as well.
 
 ### Things I am passionate about
-* platformers, roguelikes and metroidvanias :video_game: :joystick: 
+* Platformers, roguelikes and metroidvanias :video_game: :joystick: 
 * Synthwave music :headphones:
 * Snowboarding :snowboarder: 
 * Fantasy Novels :elf: :dragon: :mage_man:	
-* Traveling the world
+* Traveling the world :earth_africa: :earth_asia:	:earth_americas:
 
 You can find links to my socials at https://baris.io
