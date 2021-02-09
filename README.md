@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hey, I am Barış 👋
 
-<!--
-**mbaris/mbaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an engineer, programmer and a geek.
 
-Here are some ideas to get you started:
+### Things I am interested in nowadays
+* Observability / OpenTelemetry and OpenMetrics
+* Infrastructure as Code / Terraform
+* Reactive Java / WebFlux
+* AWS Lambda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming languages I use the most
+* Java :coffee:
+* Python :snake:
+* Javascript
+
+I want to work with Rust, Scala and Kotlin as well.
+
+### Other things I like
+* platformers, roguelikes and metroidvanias :video_game: :joystick: 
+* Synthwave music :headphones:
+* Snowboarding :snowboarder: 
+* Fantasy Novels :elf: :dragon: :mage_man:	
