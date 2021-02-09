@@ -15,8 +15,9 @@ I am an engineer, programmer and a geek.
 
 I want to work with Rust, Scala and Kotlin as well.
 
-### Other things I like
+### Things I am passionate about
 * platformers, roguelikes and metroidvanias :video_game: :joystick: 
 * Synthwave music :headphones:
 * Snowboarding :snowboarder: 
 * Fantasy Novels :elf: :dragon: :mage_man:	
+* Traveling the world
