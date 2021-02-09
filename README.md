@@ -8,7 +8,7 @@ I am an engineer, programmer and a geek.
 * Reactive Java / WebFlux
 * AWS Lambda
 
-### Programming languages I use the most
+### Programming languages I use the most
 * Java :coffee:
 * Python :snake:
 * Javascript
