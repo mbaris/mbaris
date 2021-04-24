@@ -1,25 +1,26 @@
 ### Hey, I am Barış 👋
 
-I am an engineer, programmer and a geek.
+I am an engineer/geek from Turkey. I am currently working and living in Berlin.
 
-### Things I am interested in nowadays
-* Observability / OpenTelemetry and OpenMetrics
-* Infrastructure as Code / Terraform
-* Reactive Java / WebFlux
-* AWS Lambda
+## Things I am interested in nowadays
+- Observability / OpenTelemetry and OpenMetrics
+- Infrastructure as Code / Terraform
+- Reactive Java / WebFlux
+- Serverless Computing / AWS Lambda
+- Minimal and fast websites
 
-### Programming languages I use the most
-* Java :coffee:
-* Python :snake:
-* Javascript
+## Programming languages I use the most
+- Java
+- Python
+- Javascript
 
-I want to work with Rust, Scala and Kotlin as well.
+I also want to write some code with Rust, Go and Kotlin as well.
 
-### Things I am passionate about
-* Platformers, roguelikes and metroidvanias :video_game: :joystick: 
-* Synthwave music :headphones:
-* Snowboarding :snowboarder: 
-* Fantasy Novels :elf: :dragon: :mage_man:	
-* Traveling the world :earth_africa: :earth_asia:	:earth_americas:
+## Things I am passionate about outside of work
+- Video games, specifically platformers, roguelikes and metroidvanias
+- Synthwave music
+- Snowboarding
+- Fantasy Novels
+- Traveling
 
 You can find links to my socials at https://baris.io
