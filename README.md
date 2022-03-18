@@ -14,8 +14,6 @@ I am an engineer/geek from Turkey. I am currently working and living in Berlin.
 - Python
 - Javascript
 
-I also want to write some code with Rust, Go and Kotlin as well.
-
 ## Things I am passionate about outside of work
 - Video games, specifically platformers, roguelikes and metroidvanias
 - Synthwave music
